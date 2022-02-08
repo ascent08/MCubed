@@ -1,0 +1,107 @@
+{
+	id: "5B1042BE4C8A8CFE"
+	group: ""
+	order_index: 0
+	filename: "m"
+	title: "M³"
+	icon: "minecraft:grass_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Skeletons killing creepers"
+			x: 5.0d
+			y: 0.5d
+			subtitle: "Obtain every single disc you can get from making a skeleton kill a creeper."
+			id: "0BB584EED0DE1704"
+			tasks: [
+				{
+					id: "18587F98B7978645"
+					type: "item"
+					item: "minecraft:music_disc_13"
+				}
+				{
+					id: "263DB7791A90F212"
+					type: "item"
+					item: "minecraft:music_disc_cat"
+				}
+				{
+					id: "13150D38E34230BF"
+					type: "item"
+					item: "minecraft:music_disc_blocks"
+				}
+				{
+					id: "14B7E9970773E895"
+					type: "item"
+					item: "minecraft:music_disc_chirp"
+				}
+				{
+					id: "629586854860DA68"
+					type: "item"
+					item: "minecraft:music_disc_far"
+				}
+				{
+					id: "48381F93E50C1B43"
+					type: "item"
+					item: "minecraft:music_disc_mall"
+				}
+				{
+					id: "61183231E1BDECFF"
+					type: "item"
+					item: "minecraft:music_disc_mellohi"
+				}
+				{
+					id: "43DFFE118AE76354"
+					type: "item"
+					item: "minecraft:music_disc_stal"
+				}
+				{
+					id: "3F7ADC849510E3EE"
+					type: "item"
+					item: "minecraft:music_disc_strad"
+				}
+				{
+					id: "353BBD1C31A7EEF5"
+					type: "item"
+					item: "minecraft:music_disc_ward"
+				}
+				{
+					id: "055F4ABC222E407A"
+					type: "item"
+					item: "minecraft:music_disc_11"
+				}
+				{
+					id: "3EA1895196151162"
+					type: "item"
+					item: "minecraft:music_disc_wait"
+				}
+			]
+		}
+		{
+			title: "Music from the pits of Hell."
+			x: 6.5d
+			y: 0.0d
+			subtitle: "Obtain Pigstep."
+			dependencies: ["0BB584EED0DE1704"]
+			id: "17D947E2DB704930"
+			tasks: [{
+				id: "1D7506DD066D67F1"
+				type: "item"
+				item: "minecraft:music_disc_pigstep"
+			}]
+		}
+		{
+			title: "Echoes in a cave"
+			x: 6.5d
+			y: 1.0d
+			subtitle: "Obtain Otherside."
+			dependencies: ["0BB584EED0DE1704"]
+			id: "51E2B336044B033C"
+			tasks: [{
+				id: "1AB214D1FD8D4820"
+				type: "item"
+				item: "minecraft:music_disc_otherside"
+			}]
+		}
+	]
+}

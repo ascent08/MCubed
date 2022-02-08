@@ -1,0 +1,13 @@
+name = "M³"
+author = "ascent_08"
+version = "a0.0.2"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "95d14d0e064a52276d2a9f62851e86bd54315a3a13b2daca912839fa110200e0"
+
+[versions]
+fabric = "0.12.12"
+minecraft = "1.18.1"
