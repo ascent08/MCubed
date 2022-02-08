@@ -1,2 +1,2 @@
-# MCubed
-used on having a minimal amount of mods while also attempting to offer something for everyone.
+# What is M³?
+This is a modpack created with the intention of not only keeping the pack on the lighter side, but also having something for everyone. Whether you're a builder, an explorer, into magic or tech, we hope you find something that you like in this pack.
