@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "8da5ecea38874275a7bbfefced4d26759a2f3d03f9a39b52fefb84d6784c636e"
 
@@ -127,10 +123,6 @@ hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
 [[files]]
 file = "config/modmenu.json"
 hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
-
-[[files]]
-file = "config/okzoomer.json5"
-hash = "e7e05a60ee978b45b069ec4f08c5ee98b21a33c6620f7af9946a2bdcaed297f5"
 
 [[files]]
 file = "config/patchouli.json5"
