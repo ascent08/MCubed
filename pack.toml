@@ -1,4 +1,4 @@
-name = "M³"
+name = "MCubed"
 author = "ascent_08"
 version = "a0.0.2"
 pack-format = "packwiz:1.0.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "95d14d0e064a52276d2a9f62851e86bd54315a3a13b2daca912839fa110200e0"
+hash = "024e88df7e23b57187b98ca2da6c85d46b5fb4b5046905fe752f09156ba5ba37"
 
 [versions]
-fabric = "0.12.12"
+fabric = "0.13.1"
 minecraft = "1.18.1"

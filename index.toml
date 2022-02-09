@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
 file = "config/Adorn.json5"
 hash = "8da5ecea38874275a7bbfefced4d26759a2f3d03f9a39b52fefb84d6784c636e"
 
@@ -43,42 +47,6 @@ hash = "9eba770309030582368a62bbfd4a158456fb4cf75434d6eb7e0175e9bc0fc977"
 [[files]]
 file = "config/bclib/server.json"
 hash = "dd0b11f0c1b03f5624524a5b2b309404c020be1e4bee961bd85a20bcdf03d4d3"
-
-[[files]]
-file = "config/betterend/biomes.json"
-hash = "da69412d15c9fab5026c0021565163db734b38b175e7b4ddd5aebd219cff9b14"
-
-[[files]]
-file = "config/betterend/blocks.json"
-hash = "42a792de0be657f9278157c679261b8114f4ed2efd5627ead3f3057384dde784"
-
-[[files]]
-file = "config/betterend/client.json"
-hash = "9fe05edf2b6cfaa5573d1dc6debf01181a663f0ffda407c8b3f05d2ef87e56eb"
-
-[[files]]
-file = "config/betterend/enchantments.json"
-hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
-
-[[files]]
-file = "config/betterend/entities.json"
-hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
-
-[[files]]
-file = "config/betterend/generator.json"
-hash = "5ce240c9fe50fb002ef8ddd4b16187a4bb99dc80e1e7a83466fb1c5fb0acf297"
-
-[[files]]
-file = "config/betterend/items.json"
-hash = "7cc2f9e173f3be65d3b360fc13949f0f9b51f2365699431d459f4ac58b0f418b"
-
-[[files]]
-file = "config/betterend/portals.json"
-hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
-
-[[files]]
-file = "config/betterend/recipes.json"
-hash = "15aebb7a5b0200be0a6f6fcdf9e8c67498fa60ba811e236d851664299fb8b323"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -139,10 +107,6 @@ hash = "a1682e8de53c1a4a2824110400cfa3d83496c023355ca2c853e6cf6fdc9b1b3b"
 [[files]]
 file = "config/inmis.json"
 hash = "c5ed4ad8997eebd7d62dd6b4f4292b3d3136a0e65a74e3004ae8372d26ecbe1b"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
 
 [[files]]
 file = "config/kibe.json"
@@ -254,7 +218,7 @@ hash = "c94a317dfa6dcd979e0c422cd2dcdf463e44481487332e4a71accc3cd0d7fb55"
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "b206e6ec2c88db33bc6cd5720c72e822389f55619b8ade1134a4d5172281d021"
+hash = "1a5072cf20d68a3a4f7ecafc1ebd6b833965609e4acc4780cb3dbc38073c957c"
 metafile = true
 
 [[files]]
@@ -269,17 +233,17 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "7eb94fe0deef8d92660d4309ba7557d63117b60299510dca8a65e0e6036d6c61"
+hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
 metafile = true
 
 [[files]]
 file = "mods/bclib.toml"
-hash = "4381dc098074c8ebd2afa1f6d6a1a2196999912d66487755ba9e71b7c69133f0"
+hash = "3c4a089a21f404794571596170971821e4725de03e0ea722c4f89283472777f6"
 metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-hash = "ae2e3e010cb44866be25254122b55fcb5ddc58229db3e5e3217ee91828f569c0"
+hash = "8d250f59c02ec21bff3cd2a0e0dcdcc0f43f0a2ec511a27b0097dd010d3a39e5"
 metafile = true
 
 [[files]]
@@ -299,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
@@ -309,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
+hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
@@ -329,12 +293,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
+hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
 metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.toml"
-hash = "582dce8e7144c2753375e99f9f740d602f61686f0b0fe1db21fc4432f85c2b14"
+hash = "896b5bd9861b6747c0eb6e00bb67131080b662239af1353ac93f5d32541631c1"
 metafile = true
 
 [[files]]
@@ -344,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.toml"
-hash = "85ef2b128ec068804c901db657c2bf7ec3c1aa1478bbc74b65b73c74a792fe35"
+hash = "6ad77c43d09f46fc4f96acb439a3b7a419a7f08de4cbd2532baf22a773bce0e4"
 metafile = true
 
 [[files]]
@@ -384,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "3a8fb7d4258da78b56e3e34f67df5b13f4773496bad7a5806fb603342294753c"
+hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
 metafile = true
 
 [[files]]
@@ -404,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "d8a0dad5524a4b850b3d59e64121a3d4177ec80ea00ad50ee80e42931cefa942"
+hash = "26642db58792f1313f62e5c02ca0fd2d31f0a2c243e23e1dca34b5d94cac8fa3"
 metafile = true
 
 [[files]]
@@ -414,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.toml"
-hash = "0fe48729e9ef6e97753ca84ad59e87960b1d1440a00f6803ade27069a06bb43b"
+hash = "ad0d1d0dcb082514f0cedf8493a18694f6467c782aec2a592025809ac29d7c26"
 metafile = true
 
 [[files]]
@@ -424,32 +388,32 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.toml"
-hash = "2b6dc182a69ae6b7992cc18cfe39afa1ed348e60f4ed8f2507852808b7763a29"
+hash = "2935d08419d05bf6d723225066a5c8e28c9cf3beb08d4f6a3902520a965c5f95"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "34adc00944c2f0bd4685c112d402fb9354a2ba7f9b7a3d439f8e5a83ce201c3e"
+hash = "9a9deb9a7cb6967c338afe5fff048b8d090fe121573158c2bfb0afb1db85319c"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "740668c213c095d418367fc119cb6fb7db21e9971ddd06d92953bfa0d88e27a5"
+hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "5503fe0648bb3a63076467152d9a8acd1e8735118534d368cbfd6fd84bb4693c"
+hash = "823cf2b40b652b310a3b179ed0f58afd66b94d76b75f6b9f7adcf02fd6620577"
 metafile = true
 
 [[files]]
 file = "mods/spectrum.toml"
-hash = "ae368c403306042fafc7e2a4bb8e28e7aed41be4639f6fcd062acdafa8978228"
+hash = "b4ba50635a5d811d0923cecf1714ec520a9a5746330bcd05f87bd663c81b1d33"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "c641a4f43b1c98bc9b7931306b55e83477233a4e33febf49ce7f9bebfa058872"
+hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
 metafile = true
 
 [[files]]
@@ -469,14 +433,10 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "e06923217bbdcff91532f50823fb7e83b0bb9f859b5efa07356aacc145f42d88"
+hash = "53851cb959ada913339da2f2f6ed8e4630c2777d316f5e3d92b63a584405d783"
 metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
-hash = "99f0f9d21c6a86f73f6d5cb57fee44becda4631f875151d780cccf9fd8699539"
+hash = "382cc857702476647035980468c8df360e5818a8ca19bfb042d3436eab0c3bde"
 metafile = true
-
-[[files]]
-file = "packwiz"
-hash = "c73dfc81ddc023ff7ac8d8985c250cf36e1bcc8aa3d2e383e2d8c3e03856f119"
