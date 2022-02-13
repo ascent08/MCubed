@@ -314,6 +314,11 @@ hash = "d6a607a1f3d97bd19c932483aa4c78857ce528493185f5db4c61da7629e178cd"
 metafile = true
 
 [[files]]
+file = "mods/hookshot.toml"
+hash = "da5a28d0257cdbad332f843bf273b346b48536da2a082fd06dc52f81514e497b"
+metafile = true
+
+[[files]]
 file = "mods/horsestatsvanilla.toml"
 hash = "e1e418dc25cc8694fc878d7791bf44e4aca994385af909c6ec64b73986b63ed0"
 metafile = true
