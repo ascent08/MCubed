@@ -279,6 +279,11 @@ hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu-fabric.toml"
+hash = "343221bf5a8d2e935bfe32726a3c34c236bee2195e2ca040fdc5842687ac6c4d"
+metafile = true
+
+[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.toml"
 hash = "051c09e14638dc26c9f80ceb44facb5f3f2aa2d5aa352719748c3facd10a9ab3"
 metafile = true
@@ -336,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/kibe.toml"
 hash = "90214718722c18d39e8fabdb112a0a8d6db7ba6fbd6bcb024be2accfe285cdf8"
+metafile = true
+
+[[files]]
+file = "mods/konkrete-fabric.toml"
+hash = "a8593cbd7057ade74e44a380fb2decb5ae26fa32bf37f8527aaba36a4d571322"
 metafile = true
 
 [[files]]
