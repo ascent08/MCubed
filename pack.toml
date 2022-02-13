@@ -1,6 +1,6 @@
 name = "MCubed"
 author = "ascent_08"
-version = "a0.0.2"
+version = "a0.0.3"
 pack-format = "packwiz:1.0.0"
 
 [index]
