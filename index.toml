@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.toml"
-hash = "d9f6bc53b6a325279f4c83679edebae7f9a6db4057d5b13d69aed1e2c5ae094a"
+hash = "4fe47315a97a0bcc0ce2c5dafc14987fcfa156096123f7f66fcc47c1c54aa262"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "9a9deb9a7cb6967c338afe5fff048b8d090fe121573158c2bfb0afb1db85319c"
+hash = "bd23bf04c289a0ec2ad047a26b4032d75954a16b5b4677133c21d74b611e6c3a"
 metafile = true
 
 [[files]]
