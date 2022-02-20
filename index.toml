@@ -145,10 +145,6 @@ file = "config/repurposed_structures-fabric/natural_mob_spawning_configs.json5"
 hash = "c37088377505729b6436ea1f60ce01ef57e836e694bc8f86c1f05e50fb28dad7"
 
 [[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "b5914e511ec9be593264b891a55985f74fe9427a01f6687f7b6b2366bc3cf060"
-
-[[files]]
 file = "config/rrp.properties"
 hash = "1cc752db3837aa6e5a842a096906a230ba65d3fb782b99df151a5e237bc1ffb2"
 
@@ -225,12 +221,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
+hash = "8669954f0a3a7573db472acb7335b88e8d0d61cd83488a8b558619114ee331f3"
 metafile = true
 
 [[files]]
 file = "mods/bclib.toml"
-hash = "3c4a089a21f404794571596170971821e4725de03e0ea722c4f89283472777f6"
+hash = "653f78fd7aa922217b73ff91a0e77e2434d59227cd279d35de9f3be8eb16b0eb"
 metafile = true
 
 [[files]]
@@ -260,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "22ccfcd6e4fcb3d48e7218e99886cd66f726dfca868b3c8218449f35a32031d5"
+hash = "1db4e0729ed816228ed3cac73f186ee93ab298c968823e312a977208e4d97ba8"
 metafile = true
 
 [[files]]
@@ -285,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
+hash = "20342aec4f279599c087a92f09b013a14de4ddcb77f02adbd689c0fe62c280fd"
 metafile = true
 
 [[files]]
@@ -306,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-fabric.toml"
 hash = "76bc027caabbcf1e5448ae0fae4fa885df5ebb7cbf49ea83775d32ce8b079f56"
+metafile = true
+
+[[files]]
+file = "mods/gate-of-babylon.toml"
+hash = "f704e805c5ec625b4e21a88f6033761fd103c8e2214449e8ba29cd3653c575a8"
 metafile = true
 
 [[files]]
@@ -330,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "73b472e24d42a5ebdd7bca2e9fec3c1f8464894c1aa475e8f6b518a312e77e85"
+hash = "503001ba7a375e4182e16c4d19449cff133b938b1203bc541b496f04b1c15dd9"
 metafile = true
 
 [[files]]
@@ -365,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "26642db58792f1313f62e5c02ca0fd2d31f0a2c243e23e1dca34b5d94cac8fa3"
+hash = "cf90d95734870d3081f471bf1571c52e32dbb7aad84f2aa7741d71876de50946"
 metafile = true
 
 [[files]]
@@ -390,12 +391,12 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "bd23bf04c289a0ec2ad047a26b4032d75954a16b5b4677133c21d74b611e6c3a"
+hash = "8f2a67f64d6a5bb81ddc2529485ae2ea70bedfb0e882a3ae1ea538d56a76d96b"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
+hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
 metafile = true
 
 [[files]]
@@ -420,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.toml"
-hash = "af025fa593f563d40db38f47c23d33d749e58f33cb9ee2c0e2d94940718ba66d"
+hash = "e3008eb0a9fee1f1fe2a67cc0257de8be307a0afd919c2b7c170365e8704d7a8"
 metafile = true
 
 [[files]]
@@ -430,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "53851cb959ada913339da2f2f6ed8e4630c2777d316f5e3d92b63a584405d783"
+hash = "20007d243e056fffbeb9a5af5585436f98b40d4478bc279b296a96bff5e66471"
 metafile = true
 
 [[files]]

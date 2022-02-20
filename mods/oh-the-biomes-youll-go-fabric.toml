@@ -1,13 +1,13 @@
 name = "Oh The Biomes You'll Go Refabricated"
-filename = "Oh The Biomes You'll Go-fabric-1.18.1-1.3.5.9.jar"
+filename = "Oh The Biomes You'll Go-fabric-1.18.1-1.3.5.10.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3637/306/Oh The Biomes You'll Go-fabric-1.18.1-1.3.5.9.jar"
+url = "https://edge.forgecdn.net/files/3648/846/Oh The Biomes You'll Go-fabric-1.18.1-1.3.5.10.jar"
 hash-format = "murmur2"
-hash = "1526086492"
+hash = "3361776658"
 
 [update]
 [update.curseforge]
-file-id = 3637306
+file-id = 3648846
 project-id = 391378
