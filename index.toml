@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Adorn.json5"
-hash = "8da5ecea38874275a7bbfefced4d26759a2f3d03f9a39b52fefb84d6784c636e"
-
-[[files]]
 file = "config/Spectrum.json5"
 hash = "fbb3ad0d6c5948a7c8d838417a328d04b07aac620d3426003f68a047e516ebf4"
 
@@ -429,4 +425,14 @@ metafile = true
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
 hash = "f449d9cc31c69f68171db990e202388969ce52ebc30e01aa0d7d292c53e8fef8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.toml"
+hash = "61096fe198fb86935db6c3c972824cd64f7010c44703d4d598e1e51a1942cfa9"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.toml"
+hash = "082e3f30507177c0f472ac9cd9d7b1abd46c09296433b6997df9d58eb57d381e"
 metafile = true
