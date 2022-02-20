@@ -5,10 +5,6 @@ file = "config/Adorn.json5"
 hash = "8da5ecea38874275a7bbfefced4d26759a2f3d03f9a39b52fefb84d6784c636e"
 
 [[files]]
-file = "config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
 file = "config/Spectrum.json5"
 hash = "fbb3ad0d6c5948a7c8d838417a328d04b07aac620d3426003f68a047e516ebf4"
 
@@ -105,6 +101,14 @@ file = "config/inmis.json"
 hash = "c5ed4ad8997eebd7d62dd6b4f4292b3d3136a0e65a74e3004ae8372d26ecbe1b"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "f3dbde3f54515e46f2a8305254305d7024e8ebab19106a3bec7100a90837409b"
+
+[[files]]
 file = "config/kibe.json"
 hash = "91a87e9275050d92ad44f0a018dcfbfc71334a8654c88c611c1395a14b163f9f"
 
@@ -114,11 +118,7 @@ hash = "688d62f77d1e99697e4a3ce6f5d9c833d024472726da4e3c480b0e2281aea70a"
 
 [[files]]
 file = "config/libgui.json5"
-hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+hash = "ca5e1bb543d92ff463b1500d32191973116f3b7ff21c9d9ee7f6705cc8fe7ac1"
 
 [[files]]
 file = "config/modmenu.json"
@@ -151,14 +151,6 @@ hash = "1cc752db3837aa6e5a842a096906a230ba65d3fb782b99df151a5e237bc1ffb2"
 [[files]]
 file = "config/sidebar_buttons.json"
 hash = "c08a0b6c31c13c3b586a9d4d46e23f13a1fc03ef509db802f8ce27e95a33a1a1"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "c90256f2ba5668d029be2c09139e737f227bd5fc74ace57cbf8316a49e513c54"
 
 [[files]]
 file = "config/stoneholm.json5"
