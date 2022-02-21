@@ -353,6 +353,11 @@ hash = "cacf5ebda915edc99213691d325e881db490b7420822bc3ae88fe1798a74a645"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.toml"
+hash = "4f9056a630be5f300b095bf9b4e268c9c1d6f85def91e590887d5c3198ae2bd1"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
 hash = "cf90d95734870d3081f471bf1571c52e32dbb7aad84f2aa7741d71876de50946"
 metafile = true
