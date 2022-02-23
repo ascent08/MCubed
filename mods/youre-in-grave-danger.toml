@@ -1,13 +1,13 @@
 name = "You're in Grave Danger"
-filename = "youre-in-grave-danger-1.2.18.jar"
+filename = "youre-in-grave-danger-1.2.19.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3645/91/youre-in-grave-danger-1.2.18.jar"
+url = "https://edge.forgecdn.net/files/3657/292/youre-in-grave-danger-1.2.19.jar"
 hash-format = "murmur2"
-hash = "4140409062"
+hash = "1978471796"
 
 [update]
 [update.curseforge]
-file-id = 3645091
+file-id = 3657292
 project-id = 544912

@@ -189,8 +189,16 @@ file = "config/waila/waila_plugins.json"
 hash = "c59e56099a0ace24113aa7756b46f58fcb43024d915179c064c93a0c197df33a"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "c8e24eba6dc3ac462c508d85e785afe5943ceafe6c28c444b32d73324f983109"
+
+[[files]]
 file = "config/yigd.toml"
 hash = "c94a317dfa6dcd979e0c422cd2dcdf463e44481487332e4a71accc3cd0d7fb55"
+
+[[files]]
+file = "local/ftbchunks/client-config.snbt"
+hash = "2e3cee58e5450ebf1005cff860266c6827a8dc8ec9a150fc9e56f46f41cbb1a3"
 
 [[files]]
 file = "mods/adorn.toml"
@@ -229,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.toml"
-hash = "34c570df2f540503e6bd8fee4e0f1020c4c2651380e4970aeb43375070d47b27"
+hash = "3af301c78c1747afe44f5016ab448bb1e83a8ef917c5635f40750c87c2dfc352"
 metafile = true
 
 [[files]]
@@ -289,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-teams-fabric.toml"
-hash = "76bc027caabbcf1e5448ae0fae4fa885df5ebb7cbf49ea83775d32ce8b079f56"
+hash = "9ca0788addf0ef43196053c338d3a234b6f898839a0b157fb69be08b88eb8966"
 metafile = true
 
 [[files]]
@@ -319,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "503001ba7a375e4182e16c4d19449cff133b938b1203bc541b496f04b1c15dd9"
+hash = "1d49cb0f0126d65c6e53845acfbc1d29864c28ac888e0cccd7da78f93720b0b6"
 metafile = true
 
 [[files]]
@@ -334,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
+hash = "257073f193621e10160f4ac9fdb3b15973d9e5b017c79be7b4264616d4f812db"
 metafile = true
 
 [[files]]
@@ -359,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "cf90d95734870d3081f471bf1571c52e32dbb7aad84f2aa7741d71876de50946"
+hash = "d244c913b4e90fbcf4171329b2829e90b763badeea9a7ccfdc6fc9560e4ea4d6"
 metafile = true
 
 [[files]]
@@ -434,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
-hash = "f449d9cc31c69f68171db990e202388969ce52ebc30e01aa0d7d292c53e8fef8"
+hash = "de9d984b83817213e01e39564b1909864f5a7c04e48d784624a8a161bafa5f19"
 metafile = true
 
 [[files]]
