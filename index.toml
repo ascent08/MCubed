@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "8669954f0a3a7573db472acb7335b88e8d0d61cd83488a8b558619114ee331f3"
+hash = "a4f9d4a2bb6c3ca55085505462267d93e9f018d538cc2f14bd2b998ddf3a1f8d"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.toml"
-hash = "3af301c78c1747afe44f5016ab448bb1e83a8ef917c5635f40750c87c2dfc352"
+hash = "8761bfd3814ef69a56130ebdda90d9de1cb9072175dc45b4f087d3260738ec05"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "d6a607a1f3d97bd19c932483aa4c78857ce528493185f5db4c61da7629e178cd"
+hash = "9c03fedeedb6b474fdec82d2966bf67dae734de3416148e14c6d4d5471cc99fd"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "d244c913b4e90fbcf4171329b2829e90b763badeea9a7ccfdc6fc9560e4ea4d6"
+hash = "4de889be27a1a2b4a6c7ab043fc06f018b477026253edd71b096db5e7cbfa605"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.toml"
-hash = "2935d08419d05bf6d723225066a5c8e28c9cf3beb08d4f6a3902520a965c5f95"
+hash = "a18cd053ac9044a17108ea99ff1aadb25170ec7ab1699eb3896e0866bc79f798"
 metafile = true
 
 [[files]]
@@ -432,17 +432,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "20007d243e056fffbeb9a5af5585436f98b40d4478bc279b296a96bff5e66471"
+hash = "14d62fd2ec4c040a03e2912751389307ba4c7e3af9852bcd44a1898aa54ae411"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
+hash = "b46e401bca6e5d8a3845d7323731a1aa8cedece1428c899a991701a974080b9e"
 metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
-hash = "de9d984b83817213e01e39564b1909864f5a7c04e48d784624a8a161bafa5f19"
+hash = "da89f6fd31483fcf7b5c3dffe95573c985f5998c85f20edfd9240ebe5f0065bf"
 metafile = true
 
 [[files]]
