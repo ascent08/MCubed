@@ -77,12 +77,8 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/exploration.snbt"
-hash = "8c4cf53ea47a94c2eb17651a96f98f68952534f060d6eff6191f16f5faba4153"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/m.snbt"
-hash = "b9f11110b4cf28435ae09db313a04e18aa25997e0895738b2033351607ec4a8c"
+hash = "602b9cb453850ef1adea5ed121f0248a9a9e2a3193addd2c0b3196f8fb0a1563"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"

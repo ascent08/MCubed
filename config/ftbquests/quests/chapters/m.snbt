@@ -10,7 +10,7 @@
 	quests: [
 		{
 			title: "Skeletons killing creepers"
-			x: 5.0d
+			x: 8.0d
 			y: 0.5d
 			subtitle: "Obtain every single disc you can get from making a skeleton kill a creeper."
 			id: "0BB584EED0DE1704"
@@ -79,10 +79,11 @@
 		}
 		{
 			title: "Music from the pits of Hell."
-			x: 6.5d
+			x: 9.5d
 			y: 0.0d
 			subtitle: "Obtain Pigstep."
 			dependencies: ["0BB584EED0DE1704"]
+			hide: false
 			id: "17D947E2DB704930"
 			tasks: [{
 				id: "1D7506DD066D67F1"
@@ -92,15 +93,169 @@
 		}
 		{
 			title: "Echoes in a cave"
-			x: 6.5d
+			x: 9.5d
 			y: 1.0d
 			subtitle: "Obtain Otherside."
 			dependencies: ["0BB584EED0DE1704"]
+			hide: false
 			id: "51E2B336044B033C"
 			tasks: [{
 				id: "1AB214D1FD8D4820"
 				type: "item"
 				item: "minecraft:music_disc_otherside"
+			}]
+		}
+		{
+			title: "Obtaining rubber"
+			x: -1.0d
+			y: -0.5d
+			subtitle: "Use a treetap to obtain sap from a rubber tree, then turn the sap into rubber."
+			hide: false
+			id: "7840C71E8BA1A2C7"
+			tasks: [
+				{
+					id: "171287BB036B1C3C"
+					type: "item"
+					item: {
+						id: "techreborn:treetap"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5FF52BFFC2B8A568"
+					type: "item"
+					item: "techreborn:sap"
+				}
+				{
+					id: "4D557C8C36CB8677"
+					type: "item"
+					item: "techreborn:rubber"
+				}
+			]
+		}
+		{
+			title: "It's (probably) better than iron!"
+			x: 0.0d
+			y: -0.5d
+			subtitle: "Obtain refined iron."
+			hide: false
+			id: "2F38AB90C6A025DA"
+			tasks: [{
+				id: "4032B5D04A86F9AF"
+				type: "item"
+				item: "techreborn:refined_iron_ingot"
+			}]
+		}
+		{
+			title: "Circuitry in action"
+			x: -0.5d
+			y: -2.5d
+			subtitle: "Craft your first electronic circuit."
+			dependencies: [
+				"7840C71E8BA1A2C7"
+				"2F38AB90C6A025DA"
+			]
+			hide: false
+			id: "042B92191CEFAD5C"
+			tasks: [{
+				id: "43D8C09B8DDEC036"
+				type: "item"
+				item: "techreborn:electronic_circuit"
+			}]
+		}
+		{
+			title: "Advanced circuitry"
+			x: -0.5d
+			y: -4.5d
+			subtitle: "Craft an advanced circuit."
+			dependencies: ["042B92191CEFAD5C"]
+			hide: false
+			dependency_requirement: "all_started"
+			id: "4342637C833D8696"
+			tasks: [{
+				id: "3929A4661ECBA85B"
+				type: "item"
+				item: "techreborn:advanced_circuit"
+			}]
+		}
+		{
+			title: "Top-tier circuitry"
+			icon: "techreborn:industrial_circuit"
+			x: -0.5d
+			y: -6.5d
+			subtitle: "Make your first industrial circuit."
+			dependencies: ["4342637C833D8696"]
+			hide: false
+			id: "5955CC8E8487A45C"
+			tasks: [{
+				id: "5EC68A5A11D10F2D"
+				type: "item"
+				item: "techreborn:industrial_circuit"
+			}]
+		}
+		{
+			title: "A city hidden underground"
+			x: 8.0d
+			y: -1.0d
+			subtitle: "These villagers seem to have established a village below the surface of the earth. Find one of these settlements and explore it."
+			id: "4A486381E2212280"
+			tasks: [{
+				id: "207E958C16154D7F"
+				type: "structure"
+				title: "Find an underground village."
+				icon: "minecraft:stone_bricks"
+				structure: "stoneholm:underground_village"
+			}]
+			rewards: [{
+				id: "4D783C7FC1C9573B"
+				type: "toast"
+				title: "A city hidden underground"
+				icon: "minecraft:stone_bricks"
+				description: "You found an underground village! What secrets does it hold?"
+			}]
+		}
+		{
+			title: "Colorful gems"
+			x: 3.0d
+			y: -0.5d
+			subtitle: "Get started on your journey throughout the Spectrum mod by obtaining some citrine and some topaz."
+			hide: false
+			id: "5BE7BFE3D1052162"
+			tasks: [
+				{
+					id: "652497BCE8EF65D9"
+					type: "item"
+					item: "spectrum:citrine_block"
+				}
+				{
+					id: "3FB210463DED4F6D"
+					type: "item"
+					item: "spectrum:topaz_block"
+				}
+			]
+		}
+		{
+			title: "https://bigrat.monster"
+			x: 3.0d
+			y: 2.0d
+			subtitle: "Find a rat."
+			id: "31414C288BF897FC"
+			tasks: [{
+				id: "247DAB3922230254"
+				type: "observation"
+				icon: {
+					id: "ratsmischief:rat_mask"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				timer: 0L
+				observe_type: 5
+				to_observe: "ratsmischief:rat"
 			}]
 		}
 	]
