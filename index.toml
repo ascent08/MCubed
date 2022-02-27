@@ -421,6 +421,11 @@ hash = "47322552c7d9b4873a031e6e4561bc502be78af4a4f201c6d2ea398845bcb19d"
 metafile = true
 
 [[files]]
+file = "mods/techreborn.toml"
+hash = "8c8b6f0fae62722007aa3142420b1f31d3aa0d1d0a002a947e2c6de0ad513404"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.toml"
 hash = "e3008eb0a9fee1f1fe2a67cc0257de8be307a0afd919c2b7c170365e8704d7a8"
 metafile = true
