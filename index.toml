@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
+hash = "d317c7a23bde52cef366338b771919c0199db357d7b4118511fe62de83bfee8d"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "9c03fedeedb6b474fdec82d2966bf67dae734de3416148e14c6d4d5471cc99fd"
+hash = "7a005375ca8b4426e887c2c00c0d14061222dbafb5ab5c2701cf4dfa92141a73"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.toml"
-hash = "4fe47315a97a0bcc0ce2c5dafc14987fcfa156096123f7f66fcc47c1c54aa262"
+hash = "bac00f4e18f72c32bb71ee947c2131fa6a32c36bfd0038c75b0f954a95a3e646"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.toml"
-hash = "a18cd053ac9044a17108ea99ff1aadb25170ec7ab1699eb3896e0866bc79f798"
+hash = "6a54ce074c59af928758aca31fd6badf110ccd36fa9c04a509a3b11d4613727f"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
+hash = "5539580b822662c614b8429ac4b2c5a96b28a5731e4ebf560ead4ec923167f64"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
+hash = "1b5951a7df3054df579c91d569102546e57370bdebf9e5483e6ba7f90026cd1a"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/techreborn.toml"
-hash = "8c8b6f0fae62722007aa3142420b1f31d3aa0d1d0a002a947e2c6de0ad513404"
+hash = "80f122bc2c35ce8b169d44d62d5616ed2dd19770a5955f19396f4cd514b007be"
 metafile = true
 
 [[files]]
@@ -433,12 +433,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "14d62fd2ec4c040a03e2912751389307ba4c7e3af9852bcd44a1898aa54ae411"
+hash = "46071f449849f369326bc3a251466cdf4b697cbeb01e13be59022875366ed746"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "b46e401bca6e5d8a3845d7323731a1aa8cedece1428c899a991701a974080b9e"
+hash = "a71b029fa889b5a240b93824d55721878f15e189940557a8a9b7415fee2e835f"
 metafile = true
 
 [[files]]

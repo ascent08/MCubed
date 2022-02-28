@@ -1,13 +1,13 @@
 name = "Reborn Core"
-filename = "RebornCore-5.1.0.jar"
+filename = "RebornCore-5.2.0-beta.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3663/42/RebornCore-5.1.0.jar"
+url = "https://edge.forgecdn.net/files/3667/367/RebornCore-5.2.0-beta.1.jar"
 hash-format = "murmur2"
-hash = "2442525725"
+hash = "3462712093"
 
 [update]
 [update.curseforge]
-file-id = 3663042
+file-id = 3667367
 project-id = 237903

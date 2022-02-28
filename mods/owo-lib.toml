@@ -1,13 +1,13 @@
 name = "oωo (owo-lib)"
-filename = "owo-lib-0.5.2+1.18.jar"
+filename = "owo-lib-0.5.4+1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3646/495/owo-lib-0.5.2+1.18.jar"
+url = "https://edge.forgecdn.net/files/3667/499/owo-lib-0.5.4+1.18.jar"
 hash-format = "murmur2"
-hash = "477790502"
+hash = "837073585"
 
 [update]
 [update.curseforge]
-file-id = 3646495
+file-id = 3667499
 project-id = 532610
