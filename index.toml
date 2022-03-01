@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-nbt-deadlock-be-gone.toml"
-hash = "051c09e14638dc26c9f80ceb44facb5f3f2aa2d5aa352719748c3facd10a9ab3"
+hash = "04f8732b68c26992eed286a90003a5b550eab18875255359dd5ca31bb016a641"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "46071f449849f369326bc3a251466cdf4b697cbeb01e13be59022875366ed746"
+hash = "c315f909bfc9fc59ca9cd0adf77d34c4c081c8a8878978d8f0e281ee0836f78e"
 metafile = true
 
 [[files]]
