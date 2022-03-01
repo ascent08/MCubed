@@ -1,13 +1,13 @@
 name = "Hookshot"
-filename = "hookshot-r24.jar"
+filename = "hookshot-r25.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3626/207/hookshot-r24.jar"
+url = "https://edge.forgecdn.net/files/3668/184/hookshot-r25.jar"
 hash-format = "murmur2"
-hash = "1965801082"
+hash = "346086107"
 
 [update]
 [update.curseforge]
-file-id = 3626207
+file-id = 3668184
 project-id = 396512

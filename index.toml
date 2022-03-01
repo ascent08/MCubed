@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus.toml"
-hash = "00614dc7b38e6b4c5130eaf4771e971129aa4ab8cc87edceab325fd8b946247e"
+hash = "142a6dd6ca5579a445b9d3d37516feeaa68d2c798bb5a3ed15f0e6f73ac33aba"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/hookshot.toml"
-hash = "da5a28d0257cdbad332f843bf273b346b48536da2a082fd06dc52f81514e497b"
+hash = "e848e69a9363723b3889e182329fa1cf4d1c7d8098ee0ac624d58329b97b307f"
 metafile = true
 
 [[files]]
