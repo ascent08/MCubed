@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibe.toml"
-hash = "90214718722c18d39e8fabdb112a0a8d6db7ba6fbd6bcb024be2accfe285cdf8"
+hash = "a0cfc7c74600112bdf5b55a4f4a8627a15aea53e5c9a011f8a230d795f6559ff"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "df0dae75ea001f08aee698df84b74f9b83ce9e70982232549789db38ea6cb8c8"
+hash = "693061bb93b6736bb42dcdac5832d28e79b97f6f42b16d982cc97e555f82a398"
 metafile = true
 
 [[files]]
