@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "89112377c70b49d862bf43e0438b0ad3f079730c28e438a051790baf77da1ded"
+hash = "813e7badecfdd189291b181521b3e0876a6b1985ffa7f28ec1b9a2ba1f6eecc2"
 metafile = true
 
 [[files]]
