@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "b07bf5cc07a80a89ad2bb4a149655a6f7f0d8684c7bc3fda6767040cb6c5b7b9"
+hash = "66b6c28b375dec074ee854b295b94d966faebe84c82d017aec8ca9959a3c17a1"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "8f2a67f64d6a5bb81ddc2529485ae2ea70bedfb0e882a3ae1ea538d56a76d96b"
+hash = "c655fd4e4fbad481f47360d279ab425f500242db83fe79b14b34b911f93ca7d5"
 metafile = true
 
 [[files]]
