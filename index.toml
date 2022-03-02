@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "813e7badecfdd189291b181521b3e0876a6b1985ffa7f28ec1b9a2ba1f6eecc2"
+hash = "d1f5344319135c62a8ae65efea786be9a2ead8e9223715f8abe59dfe2d356938"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "4de889be27a1a2b4a6c7ab043fc06f018b477026253edd71b096db5e7cbfa605"
+hash = "e0e1b6c49909f7ac256c2e1fcf4b5b6c83d04d04eab811914b47137b9aac434c"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
-hash = "da89f6fd31483fcf7b5c3dffe95573c985f5998c85f20edfd9240ebe5f0065bf"
+hash = "93c58c574d18183d758ec5509818ae431339d489d814a973386ae892fd363ca1"
 metafile = true
 
 [[files]]
