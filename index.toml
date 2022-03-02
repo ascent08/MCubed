@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a4f9d4a2bb6c3ca55085505462267d93e9f018d538cc2f14bd2b998ddf3a1f8d"
+hash = "2dc88ebed8254b8f319247e57a3711a800f2fd27daef2d001acf449a50b70033"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "1db4e0729ed816228ed3cac73f186ee93ab298c968823e312a977208e4d97ba8"
+hash = "88fee617e6e6c9b111cbd06097476b822c97ef596cabe1c453973005209f2df5"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "1d49cb0f0126d65c6e53845acfbc1d29864c28ac888e0cccd7da78f93720b0b6"
+hash = "02095b09d9d8c09ed0d27d58fb09c3bbd743c48ce04382d1cc9c5b3f17aba9a8"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "257073f193621e10160f4ac9fdb3b15973d9e5b017c79be7b4264616d4f812db"
+hash = "04784b1d0fe8a9a18c37179faf84cedd007a6a00badf8dbfe4dbd5c9743f1fbf"
 metafile = true
 
 [[files]]
@@ -393,12 +393,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "5539580b822662c614b8429ac4b2c5a96b28a5731e4ebf560ead4ec923167f64"
+hash = "2562164734f18f89f29b1d0cf3c89e4d95fa94769309ef2a118831aa2384f7c1"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "823cf2b40b652b310a3b179ed0f58afd66b94d76b75f6b9f7adcf02fd6620577"
+hash = "c60b90f09ddd4cdd0fd6e93435713d005b6075ac6238d796b0ea25532ff69c50"
 metafile = true
 
 [[files]]
@@ -428,12 +428,12 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-fabric.toml"
-hash = "4bff6737922a7e793a56050a9ec935f656248096d59fadf75bbbaa02f0eb6f7c"
+hash = "a8d5ec060042c1b1a13193454513b391fb42f2c91c2412396f7e6bf5cf71e016"
 metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "c315f909bfc9fc59ca9cd0adf77d34c4c081c8a8878978d8f0e281ee0836f78e"
+hash = "e111d87f9a66d7b3d82126a95c6d11e6d628c9bb7dd7a7dbdf3bef8776c4928d"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
-hash = "da89f6fd31483fcf7b5c3dffe95573c985f5998c85f20edfd9240ebe5f0065bf"
+hash = "0a75c4b3604321c3cbf718952c41b60b95d4ec1b10463017123aaf96e1232793"
 metafile = true
 
 [[files]]
