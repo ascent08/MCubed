@@ -13,48 +13,12 @@ file = "config/arcanus.json5"
 hash = "de7d9c12d252398eb65a0c34571dd530ae0d5305068b2013eaaf0d6224fc1d2f"
 
 [[files]]
-file = "config/bclib/biomes.json"
-hash = "f6387727f56faeca57cf9a29fc7c9fbbf573ea6b3fae74a7165d2c0e85a89151"
-
-[[files]]
-file = "config/bclib/client.json"
-hash = "7f862fa61d648458181d560d41769979959bd686b306638aa380266c3702cbcc"
-
-[[files]]
-file = "config/bclib/generator.json"
-hash = "1281f2ea418b98be09e3f431d3c8daa9767a2d8aae3e5c88b341c93ad6642c09"
-
-[[files]]
-file = "config/bclib/main.json"
-hash = "914d4f46f048b89ad5b5b2cca017548ca7452ba39d5a09a9fc1b6de6b60e7972"
-
-[[files]]
-file = "config/bclib/recipes.json"
-hash = "9eba770309030582368a62bbfd4a158456fb4cf75434d6eb7e0175e9bc0fc977"
-
-[[files]]
-file = "config/bclib/server.json"
-hash = "dd0b11f0c1b03f5624524a5b2b309404c020be1e4bee961bd85a20bcdf03d4d3"
-
-[[files]]
 file = "config/botania-client.json5"
 hash = "3af2bcf73d631d6f0ce4486193d75a57f7843c7e6bf03c53397e36e6d0789ee8"
 
 [[files]]
 file = "config/botania-common.json5"
 hash = "94ba8cc87b9ecbb794f1731979f31f35bf04808e3fa26eec6de626375f6af7a2"
-
-[[files]]
-file = "config/byg/EXPERIMENTAL_WARNING_MARKER_2.txt"
-hash = "c369fb48a9b5cecd8901eeecd2dd19a414d2ea89794b0f9ce4550dd0346253cc"
-
-[[files]]
-file = "config/byg/README.txt"
-hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
-
-[[files]]
-file = "config/byg/overworld-biomes.json"
-hash = "f20f941ef74368e38b6e9749083d84d18c1576850eff6c551ebafc3d00070204"
 
 [[files]]
 file = "config/c2me-compat.toml"
