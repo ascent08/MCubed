@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.toml"
-hash = "4466b29d740b9465b713bf187a089f8fc4f8b3087bbaa887678832b60850a331"
+hash = "979c3fafca19b89465773689f2b3c3bbc4006cdc11141be3c5fc87c443dbffc0"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "693061bb93b6736bb42dcdac5832d28e79b97f6f42b16d982cc97e555f82a398"
+hash = "53d54d60234c39fcda6ff212e3b9eadaaf622d04bd3f3cadf86aec42daeff922"
 metafile = true
 
 [[files]]
