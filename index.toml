@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d317c7a23bde52cef366338b771919c0199db357d7b4118511fe62de83bfee8d"
+hash = "dea9048319a4984c40fbd5e30ae02da9e7d9fbeb243047125727f0c20ef41f30"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibe.toml"
-hash = "90214718722c18d39e8fabdb112a0a8d6db7ba6fbd6bcb024be2accfe285cdf8"
+hash = "f90c4247a4a21e4079f1314e2e7cd6d01e238a15d4d4f2874e41c7df5336c554"
 metafile = true
 
 [[files]]
