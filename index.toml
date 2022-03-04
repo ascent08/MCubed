@@ -1,78 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Spectrum.json5"
-hash = "fbb3ad0d6c5948a7c8d838417a328d04b07aac620d3426003f68a047e516ebf4"
-
-[[files]]
-file = "config/appleskin.json5"
-hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
-
-[[files]]
-file = "config/arcanus.json5"
-hash = "de7d9c12d252398eb65a0c34571dd530ae0d5305068b2013eaaf0d6224fc1d2f"
-
-[[files]]
-file = "config/bclib/biomes.json"
-hash = "f6387727f56faeca57cf9a29fc7c9fbbf573ea6b3fae74a7165d2c0e85a89151"
-
-[[files]]
-file = "config/bclib/client.json"
-hash = "7f862fa61d648458181d560d41769979959bd686b306638aa380266c3702cbcc"
-
-[[files]]
-file = "config/bclib/generator.json"
-hash = "1281f2ea418b98be09e3f431d3c8daa9767a2d8aae3e5c88b341c93ad6642c09"
-
-[[files]]
-file = "config/bclib/main.json"
-hash = "914d4f46f048b89ad5b5b2cca017548ca7452ba39d5a09a9fc1b6de6b60e7972"
-
-[[files]]
-file = "config/bclib/recipes.json"
-hash = "9eba770309030582368a62bbfd4a158456fb4cf75434d6eb7e0175e9bc0fc977"
-
-[[files]]
-file = "config/bclib/server.json"
-hash = "dd0b11f0c1b03f5624524a5b2b309404c020be1e4bee961bd85a20bcdf03d4d3"
-
-[[files]]
-file = "config/botania-client.json5"
-hash = "3af2bcf73d631d6f0ce4486193d75a57f7843c7e6bf03c53397e36e6d0789ee8"
-
-[[files]]
-file = "config/botania-common.json5"
-hash = "94ba8cc87b9ecbb794f1731979f31f35bf04808e3fa26eec6de626375f6af7a2"
-
-[[files]]
-file = "config/byg/EXPERIMENTAL_WARNING_MARKER_2.txt"
-hash = "c369fb48a9b5cecd8901eeecd2dd19a414d2ea89794b0f9ce4550dd0346253cc"
-
-[[files]]
-file = "config/byg/README.txt"
-hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
-
-[[files]]
-file = "config/byg/overworld-biomes.json"
-hash = "f20f941ef74368e38b6e9749083d84d18c1576850eff6c551ebafc3d00070204"
-
-[[files]]
-file = "config/c2me-compat.toml"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-
-[[files]]
-file = "config/c2me.toml"
-hash = "37270e6b265c4974e6806123c72d7b6c345eb331954e7863182c0a52db3bb05c"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "9ea44e06910b6acb278578409cc182e30fab8410f489087448a424aecad641f6"
-
-[[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "e252e0ec8ce9bc7c8b60c2af88ff26aa70dd951128224edaa8d555e3d82f82ae"
-
-[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
@@ -85,14 +13,6 @@ file = "config/ftbquests/quests/data.snbt"
 hash = "6d7f0d18f1a791a15be7ea2f72b90fe5b6cf4a3eb6aa761090a9f99de9ffa052"
 
 [[files]]
-file = "config/horsestatsvanilla.json5"
-hash = "a1682e8de53c1a4a2824110400cfa3d83496c023355ca2c853e6cf6fdc9b1b3b"
-
-[[files]]
-file = "config/inmis.json"
-hash = "c5ed4ad8997eebd7d62dd6b4f4292b3d3136a0e65a74e3004ae8372d26ecbe1b"
-
-[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
@@ -101,76 +21,8 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "f3dbde3f54515e46f2a8305254305d7024e8ebab19106a3bec7100a90837409b"
 
 [[files]]
-file = "config/kibe.json"
-hash = "91a87e9275050d92ad44f0a018dcfbfc71334a8654c88c611c1395a14b163f9f"
-
-[[files]]
-file = "config/libcd.json"
-hash = "688d62f77d1e99697e4a3ce6f5d9c833d024472726da4e3c480b0e2281aea70a"
-
-[[files]]
-file = "config/libgui.json5"
-hash = "ca5e1bb543d92ff463b1500d32191973116f3b7ff21c9d9ee7f6705cc8fe7ac1"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
-
-[[files]]
-file = "config/patchouli.json5"
-hash = "92dc9dadb34707462bf5574bb597430b3b34c65eccf964a31680d402f0431ccf"
-
-[[files]]
-file = "config/reborncore/misc.json"
-hash = "820f40848e6daeb5d9c1998f04082cc419865c84b968cbdcc6c2e39798bd1f71"
-
-[[files]]
-file = "config/repurposed_structures-fabric/biome_dimension_allow_disallow_configs.json5"
-hash = "80f0d6cbb441fdf76054b75250e24bef47dfc7ea4d17b3bf24f2eee18e654b16"
-
-[[files]]
-file = "config/repurposed_structures-fabric/general_configs.json5"
-hash = "e3722e57f5fc788d71a54abdf5ff2e336df94886792f1ec0937c171367c12769"
-
-[[files]]
-file = "config/repurposed_structures-fabric/natural_mob_spawning_configs.json5"
-hash = "c37088377505729b6436ea1f60ce01ef57e836e694bc8f86c1f05e50fb28dad7"
-
-[[files]]
-file = "config/rrp.properties"
-hash = "1cc752db3837aa6e5a842a096906a230ba65d3fb782b99df151a5e237bc1ffb2"
-
-[[files]]
 file = "config/sidebar_buttons.json"
-hash = "c08a0b6c31c13c3b586a9d4d46e23f13a1fc03ef509db802f8ce27e95a33a1a1"
-
-[[files]]
-file = "config/stoneholm.json5"
-hash = "de006c7924e1b7d5f4fc497dcb46820748dbf09c10316d13ef5a845d8c6d4280"
-
-[[files]]
-file = "config/techreborn/generators.json"
-hash = "5a47ca4f6c1b645e672b4f5b66cc23bcd5dc3f0acdc31b7e9f5c9afc8ce801c3"
-
-[[files]]
-file = "config/techreborn/items.json"
-hash = "4f30779240e397718e4d6471e52a48718914cb11271a2bcf32d5331ca95523f5"
-
-[[files]]
-file = "config/techreborn/machines.json"
-hash = "4f64377ad9637e3233488ebf39231f6315e3f9f4ad8de86b432df5a0f441811e"
-
-[[files]]
-file = "config/techreborn/misc.json"
-hash = "891dda0418c78a872917c33c66e07f359a1091498f1fb37269007a5c0a67cd32"
-
-[[files]]
-file = "config/techreborn/world.json"
-hash = "5fe88c9be26cc405371f6a577140fc3eb37ebe00e0f3a959fee8cecff828f793"
-
-[[files]]
-file = "config/terrablender.toml"
-hash = "ccbcc81b733210b34ef9fe02cedbdec5bee6e5fc0a43ce61f90b61f9246bfeda"
+hash = "c5c4330d51cee873c4b4c0c5681ad2c04df8e4f4f4182ecfcd256ecb0d35d561"
 
 [[files]]
 file = "config/waila/blacklist.json"
@@ -213,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2dc88ebed8254b8f319247e57a3711a800f2fd27daef2d001acf449a50b70033"
+hash = "e5dea3fd66fc006bce9d232015b5145b5b8dd5e41844106f4cf5ed8a8acb3a8f"
 metafile = true
 
 [[files]]
