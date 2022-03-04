@@ -89,11 +89,6 @@ hash = "8761bfd3814ef69a56130ebdda90d9de1cb9072175dc45b4f087d3260738ec05"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.toml"
-hash = "4466b29d740b9465b713bf187a089f8fc4f8b3087bbaa887678832b60850a331"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.toml"
 hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
@@ -125,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "20342aec4f279599c087a92f09b013a14de4ddcb77f02adbd689c0fe62c280fd"
+hash = "991dee9562bebaa802aca3a577f98dde425ef2667e5cad8877d4de351eeb32b9"
 metafile = true
 
 [[files]]
@@ -235,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.toml"
-hash = "6a54ce074c59af928758aca31fd6badf110ccd36fa9c04a509a3b11d4613727f"
+hash = "239a66d96afca645453b0669ddf0dfee29d35ba288c97ca06a9889bbf95739a7"
 metafile = true
 
 [[files]]
@@ -270,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/techreborn.toml"
-hash = "80f122bc2c35ce8b169d44d62d5616ed2dd19770a5955f19396f4cd514b007be"
+hash = "def111e052ed18ed3d703e0cd1e3952fe928592cbe7a99dbe73ad6ce8941e8e5"
 metafile = true
 
 [[files]]

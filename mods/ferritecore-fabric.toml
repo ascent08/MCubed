@@ -1,13 +1,13 @@
 name = "FerriteCore (Fabric)"
-filename = "ferritecore-4.1.2-fabric.jar"
+filename = "ferritecore-4.2.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3652/642/ferritecore-4.1.2-fabric.jar"
+url = "https://edge.forgecdn.net/files/3672/143/ferritecore-4.2.0-fabric.jar"
 hash-format = "murmur2"
-hash = "2212012912"
+hash = "3471839646"
 
 [update]
 [update.curseforge]
-file-id = 3652642
+file-id = 3672143
 project-id = 459857
