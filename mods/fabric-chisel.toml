@@ -1,13 +1,13 @@
 name = "Chisel Refabricated"
-filename = "chisel-1.4.4+1.18.1.jar"
+filename = "chisel-1.4.5+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3578/88/chisel-1.4.4+1.18.1.jar"
-hash-format = "murmur2"
-hash = "445635893"
+url = "https://edge.forgecdn.net/files/3672/994/chisel-1.4.5+1.18.2.jar"
+hash-format = "sha1"
+hash = "dbfe534e98eba05972e86c839108279cdc339cb2"
 
 [update]
 [update.curseforge]
-file-id = 3578088
+file-id = 3672994
 project-id = 551763

@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.toml"
-hash = "4466b29d740b9465b713bf187a089f8fc4f8b3087bbaa887678832b60850a331"
+hash = "74887b7a8c0c0da7e5b28f0b824485ab0c05210cf5f8a3f7313cbd2b8b34f2a1"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-chisel.toml"
-hash = "ee81f48f612a9f531201afd0dcba9f58854d8c45eba2cd3388c2e5c7499240cc"
+hash = "b032d0ecba4e2103e259047979e58b3822eb163437616c280b3a291c9be4f78b"
 metafile = true
 
 [[files]]
@@ -166,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/horsestatsvanilla.toml"
 hash = "e1e418dc25cc8694fc878d7791bf44e4aca994385af909c6ec64b73986b63ed0"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "69d17da8431a798a73f8e238e9114ff96089449706a699c1f69e4561bbc0055c"
 metafile = true
 
 [[files]]
