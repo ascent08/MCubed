@@ -99,13 +99,18 @@ hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "a2503cd9f6455bcfd5b5d5d7d5f1350bc005e799918dca1e7d3203c5b67f9ae5"
+metafile = true
+
+[[files]]
 file = "mods/controlling.toml"
 hash = "88fee617e6e6c9b111cbd06097476b822c97ef596cabe1c453973005209f2df5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "dea9048319a4984c40fbd5e30ae02da9e7d9fbeb243047125727f0c20ef41f30"
+hash = "cfc071c2400eb20973b2d42fbd6f1e713d2520b460cb20ea93e96eb2fd186387"
 metafile = true
 
 [[files]]
@@ -180,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "02095b09d9d8c09ed0d27d58fb09c3bbd743c48ce04382d1cc9c5b3f17aba9a8"
+hash = "92aefdfd457c3c13e5a583ed697289b0d84e0304e7af2a20c16e16813534efbb"
 metafile = true
 
 [[files]]
@@ -300,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.toml"
-hash = "0a75c4b3604321c3cbf718952c41b60b95d4ec1b10463017123aaf96e1232793"
+hash = "e405be4ab943a36bff888114dd9b7acffe4b3e0c88dd366cf3abbb0ad820c1bc"
 metafile = true
 
 [[files]]
