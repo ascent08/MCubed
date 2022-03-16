@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
+hash = "cde374866663873f43b376a673fa6095b5f74a8b87215432f6628ee08d405f5f"
 metafile = true
 
 [[files]]
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "e5dea3fd66fc006bce9d232015b5145b5b8dd5e41844106f4cf5ed8a8acb3a8f"
+hash = "4678da7646beb73621074e73d73d5b0c20d8ae370c18a18cdef8b20f43e29cf4"
 metafile = true
 
 [[files]]
@@ -94,6 +94,11 @@ hash = "74887b7a8c0c0da7e5b28f0b824485ab0c05210cf5f8a3f7313cbd2b8b34f2a1"
 metafile = true
 
 [[files]]
+file = "mods/charm.toml"
+hash = "70eaa391ae41e3a80311e5f7d6f4f6b3e8a2067306ab31a63c82a9d66e5acca6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
@@ -105,17 +110,17 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "88fee617e6e6c9b111cbd06097476b822c97ef596cabe1c453973005209f2df5"
+hash = "8cdcf889900d23a3a8b813a70c040fb0a6a17477c6d3b04f748eadd942f676db"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "cfc071c2400eb20973b2d42fbd6f1e713d2520b460cb20ea93e96eb2fd186387"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-chisel.toml"
-hash = "b032d0ecba4e2103e259047979e58b3822eb163437616c280b3a291c9be4f78b"
+hash = "be381fbe9f7aedbe5514d76d67306f1cccd0a1cf9a2fa051d13e6a42f8b81de9"
 metafile = true
 
 [[files]]
@@ -225,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.toml"
-hash = "4de889be27a1a2b4a6c7ab043fc06f018b477026253edd71b096db5e7cbfa605"
+hash = "a9fa423486d5123cab7f844d2e2352e044258d71919762a9cade6cbe53b5346e"
 metafile = true
 
 [[files]]
@@ -235,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.toml"
-hash = "ad0d1d0dcb082514f0cedf8493a18694f6467c782aec2a592025809ac29d7c26"
+hash = "6e2601a1b0ecb85e89736bfb41c918215b83a3b91c9c221d9dbf46fa6b33768f"
 metafile = true
 
 [[files]]
@@ -250,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "c655fd4e4fbad481f47360d279ab425f500242db83fe79b14b34b911f93ca7d5"
+hash = "55f21669de8d2793970f77996c188baf5e8557a327fedd7562f2b6f62d1a9b95"
 metafile = true
 
 [[files]]
@@ -285,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.toml"
-hash = "e3008eb0a9fee1f1fe2a67cc0257de8be307a0afd919c2b7c170365e8704d7a8"
+hash = "1dbb5fe411843c48d8c51827ebc6a3730eba26f0b3c8c910f3c9cc8131949664"
 metafile = true
 
 [[files]]
@@ -295,12 +300,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "e111d87f9a66d7b3d82126a95c6d11e6d628c9bb7dd7a7dbdf3bef8776c4928d"
+hash = "10aa2195ebfc9b76c6531db9132c37cac0e5720bbcb0c749ed50493b08291137"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "a71b029fa889b5a240b93824d55721878f15e189940557a8a9b7415fee2e835f"
+hash = "517454a819176a1b52569e4c070d48e3a39d07e2e5b6bef26caa7bbc7e179037"
 metafile = true
 
 [[files]]

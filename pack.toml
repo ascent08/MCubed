@@ -1,12 +1,12 @@
 name = "MCubed"
-author = "ascent_08"
+author = "ascent_"
 version = "a0.0.4"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e8a705de6394ee5494d82247ba55a4f67640b5ea77089e250bfb8b9a2d6d1b95"
+hash = "fbc8b676a21e5a387e9ee0f8d82ac9add91cbe463221bbb3a1a32069a8fd7c5d"
 
 [versions]
 fabric = "0.13.3"
