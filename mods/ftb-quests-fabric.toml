@@ -1,13 +1,13 @@
 name = "FTB Quests (Fabric)"
-filename = "ftb-quests-fabric-1801.3.7-build.93.jar"
+filename = "ftb-quests-fabric-1801.3.7-build.97.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3627/554/ftb-quests-fabric-1801.3.7-build.93.jar"
-hash-format = "murmur2"
-hash = "1499827733"
+url = "https://edge.forgecdn.net/files/3672/857/ftb-quests-fabric-1801.3.7-build.97.jar"
+hash-format = "sha1"
+hash = "9a57945206f0570257723fe9c5b2fcee2ac3de2e"
 
 [update]
 [update.curseforge]
-file-id = 3627554
+file-id = 3672857
 project-id = 438496
