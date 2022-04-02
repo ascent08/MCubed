@@ -1,13 +1,13 @@
 name = "TerraBlender (Fabric)"
-filename = "TerraBlender-fabric-1.18.2-1.1.0.98.jar"
+filename = "TerraBlender-fabric-1.18.2-1.1.0.99.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3723/886/TerraBlender-fabric-1.18.2-1.1.0.98.jar"
+url = "https://edge.forgecdn.net/files/3725/995/TerraBlender-fabric-1.18.2-1.1.0.99.jar"
 hash-format = "sha1"
-hash = "da08d6c52c1e8c76d19f424536dd5e2c50d81862"
+hash = "4062b09b241f2478d68de2fb6b59aa239c701d0d"
 
 [update]
 [update.curseforge]
-file-id = 3723886
+file-id = 3725995
 project-id = 565956

@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "d51ef44b3ca26a54e55179de00ae4bd87e57b7404e8e9c6e683e122dd42b6959"
+hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.toml"
-hash = "6ad77c43d09f46fc4f96acb439a3b7a419a7f08de4cbd2532baf22a773bce0e4"
+hash = "82e3915e6135ad09d14a7b1fb02636a3a42ae590b34729dd56a7a493e13dfd91"
 metafile = true
 
 [[files]]
@@ -174,11 +174,6 @@ hash = "e848e69a9363723b3889e182329fa1cf4d1c7d8098ee0ac624d58329b97b307f"
 metafile = true
 
 [[files]]
-file = "mods/horsestatsvanilla.toml"
-hash = "e1e418dc25cc8694fc878d7791bf44e4aca994385af909c6ec64b73986b63ed0"
-metafile = true
-
-[[files]]
 file = "mods/indium.toml"
 hash = "69d17da8431a798a73f8e238e9114ff96089449706a699c1f69e4561bbc0055c"
 metafile = true
@@ -195,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-filters-fabric.toml"
-hash = "ac4fc06676c7fd8644e4bbb510a46fbdae1cc85c4811217c9278806a0af481b1"
+hash = "d482df6b5299089c6bad257fd14bd295999d5f4aa74d1a736f0c76255b570cab"
 metafile = true
 
 [[files]]
@@ -235,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.toml"
-hash = "6e2601a1b0ecb85e89736bfb41c918215b83a3b91c9c221d9dbf46fa6b33768f"
+hash = "026c8a4b2389e587dc1c04467f1044d4fe514ece13edc8150120798f6d99fed3"
 metafile = true
 
 [[files]]
@@ -250,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "55f21669de8d2793970f77996c188baf5e8557a327fedd7562f2b6f62d1a9b95"
+hash = "49c81e83fa8894df09746d8f8f50d639fc4097eab7e254e27458d4e7afd1b9b9"
 metafile = true
 
 [[files]]
@@ -285,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.toml"
-hash = "66f9290ae48396f92d07031153c2dca01418c10b72fece14128a7ab729faacd7"
+hash = "186b69f82a549ae21109ec9634e6907ed14506713464196233e63bedfff5a8f3"
 metafile = true
 
 [[files]]
