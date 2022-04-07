@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-hash = "8d250f59c02ec21bff3cd2a0e0dcdcc0f43f0a2ec511a27b0097dd010d3a39e5"
+hash = "1916fed53525c1f6276d0fb131305a5b9c00a9c5ad5026eb3de7e454b7654415"
 metafile = true
 
 [[files]]
@@ -115,6 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
+
 hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
 metafile = true
 
@@ -265,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.toml"
-hash = "b4ba50635a5d811d0923cecf1714ec520a9a5746330bcd05f87bd663c81b1d33"
+hash = "6be10d28c0b5b1e67162e0c37d7939bb10f5b263497e64ff46c6889005934c51"
 metafile = true
 
 [[files]]
