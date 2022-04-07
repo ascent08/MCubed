@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.toml"
-hash = "8761bfd3814ef69a56130ebdda90d9de1cb9072175dc45b4f087d3260738ec05"
+hash = "5869f6f3b13892ad050ee8f158d652cc608ea708ba54b0fd35b96a62b01b64a3"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+hash = "2c283319aebf853500c3057142e54ce91ae50170a161de46489a266f57f46f63"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "7a005375ca8b4426e887c2c00c0d14061222dbafb5ab5c2701cf4dfa92141a73"
+hash = "7c5d5df6eaf9c2242a9d37f4809008f563a112006bdc4f1f9d9d2186ee0f5a4d"
 metafile = true
 
 [[files]]
@@ -191,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/item-filters-fabric.toml"
 hash = "d482df6b5299089c6bad257fd14bd295999d5f4aa74d1a736f0c76255b570cab"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.toml"
+hash = "96336dd4cb3c2dd5aa27c35420538bcffc1647d8f72da3698d7bef1ee5e8e72c"
 metafile = true
 
 [[files]]
@@ -235,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/rats-mischief.toml"
-hash = "76c98d17384f19bbad98bf8403f391573362aa38bff01f140664df4aa16878c6"
+hash = "b72a95f4612201d9c785a8691ca0a0d8faffc18cbd15f521d2873c8ebbb9fbd9"
 metafile = true
 
 [[files]]
@@ -245,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "49c81e83fa8894df09746d8f8f50d639fc4097eab7e254e27458d4e7afd1b9b9"
+hash = "06befe0c5cac61ac6f06881c32aac2d67be14d02bcbf5d9cc2b083af80d440b6"
 metafile = true
 
 [[files]]
@@ -270,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/stoneholm.toml"
-hash = "47322552c7d9b4873a031e6e4561bc502be78af4a4f201c6d2ea398845bcb19d"
+hash = "a8bd248d882ca33a1b741946dd319004b63879f4f44bcde1ffdbb265952e18aa"
 metafile = true
 
 [[files]]
@@ -290,12 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "e8b8f9bb79d5426271475d29de8796b394c08ee5dc1d5a3adba0ebc5c662eb83"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.toml"
-hash = "e29b348d85c634266cec2768665122a8357b770586cdf146713a5e80610d973c"
+hash = "8d89480bbcbd851737cd1591f557a64d053ce4198cb5f66900a4cf4e0c40adc8"
 metafile = true
 
 [[files]]
