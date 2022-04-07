@@ -1,0 +1,13 @@
+name = "Charm"
+filename = "charm-fabric-1.18-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3667/861/charm-fabric-1.18-4.0.0.jar"
+hash-format = "sha1"
+hash = "7b934ab365f8d25ffaf9eeaffc147f4e648c4449"
+
+[update]
+[update.curseforge]
+file-id = 3667861
+project-id = 318872
