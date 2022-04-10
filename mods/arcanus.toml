@@ -1,13 +1,13 @@
 name = "Arcanus"
-filename = "arcanus-1.28.jar"
+filename = "arcanus-1.29.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3668/459/arcanus-1.28.jar"
-hash-format = "murmur2"
-hash = "1487032737"
+url = "https://edge.forgecdn.net/files/3742/64/arcanus-1.29.jar"
+hash-format = "sha1"
+hash = "b5edc40c232c20e3f2a1df8683aa2a98cb36fd42"
 
 [update]
 [update.curseforge]
-file-id = 3668459
+file-id = 3742064
 project-id = 517833

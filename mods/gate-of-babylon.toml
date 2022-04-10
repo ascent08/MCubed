@@ -1,13 +1,13 @@
 name = "Gate of Babylon"
-filename = "gate-of-babylon-1.6.0-1.18.1.jar"
+filename = "gate-of-babylon-1.7.0-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3644/733/gate-of-babylon-1.6.0-1.18.1.jar"
-hash-format = "murmur2"
-hash = "3140510302"
+url = "https://edge.forgecdn.net/files/3740/903/gate-of-babylon-1.7.0-1.18.2.jar"
+hash-format = "sha1"
+hash = "478925dbe73e114d4de5c834966ea01db3fc03a2"
 
 [update]
 [update.curseforge]
-file-id = 3644733
+file-id = 3740903
 project-id = 407500
