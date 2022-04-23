@@ -1,13 +1,13 @@
 name = "Spectrum"
-filename = "spectrum-1.3.1-1.18.2-midgame16-trinkets-brewing.jar"
+filename = "spectrum-1.3.3-1.18.2-midgame18-trinkets-brewing.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3750/375/spectrum-1.3.1-1.18.2-midgame16-trinkets-brewing.jar"
+url = "https://edge.forgecdn.net/files/3761/257/spectrum-1.3.3-1.18.2-midgame18-trinkets-brewing.jar"
 hash-format = "sha1"
-hash = "7152aadfeefab31b0278467bd1288c731e9db63f"
+hash = "30b7a871a26cb54a4899addb95806c3006042102"
 
 [update]
 [update.curseforge]
-file-id = 3750375
+file-id = 3761257
 project-id = 556967
