@@ -71,12 +71,12 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-hash = "1916fed53525c1f6276d0fb131305a5b9c00a9c5ad5026eb3de7e454b7654415"
+hash = "af941da36c5000193fa6fdfb1364783f874ad1710a87ae2a99420ea41ef6b284"
 metafile = true
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "1e761027548c803eceefe7db81c94ba2d15cd604a01047fef0ae96e2145fea98"
+hash = "90fd31eb0b7fed221e40bd53b9121a76ce172eb3e7cff96d2b9ba23f8ffbec88"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "991dee9562bebaa802aca3a577f98dde425ef2667e5cad8877d4de351eeb32b9"
+hash = "25785a86466d4b51296dc71da2110bcd8972b6cdc47069f0ed3c4e8f72512d08"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "69d17da8431a798a73f8e238e9114ff96089449706a699c1f69e4561bbc0055c"
+hash = "fab378c0172e0251334a08f0c6013b087847d3c6aa3eadc40de2e77b33fbec5e"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "2c70ac84c0b9feb5c5d42543be5612770da38debac874f48cebb5e0433afba89"
+hash = "439297a26554e1723ca14ff0142e18a12180700578c270e23501e4b1083dc2f4"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3e723eefde3af8c48ea424018106868bcadbccd9546666a3b2c57823886b0072"
+hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "8d89480bbcbd851737cd1591f557a64d053ce4198cb5f66900a4cf4e0c40adc8"
+hash = "0460dcac8daf14863619d73c14f9e717b1157f89cd47c351b7fc5ad5c6801a60"
 metafile = true
 
 [[files]]
