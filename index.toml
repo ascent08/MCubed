@@ -65,8 +65,13 @@ hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.toml"
+hash = "d25563e0e48b6b263dbf6ad7b0718db52dc81d9bfdd6f72aa4574f9ae5cbc394"
+metafile = true
+
+[[files]]
 file = "mods/bclib.toml"
-hash = "17f436fb1f4a7bdfc86227d34c7340c8cf33b4fcbf594efa65c0438ca1d1e228"
+hash = "9876e4903eed01425ff547b4f26b9a4cd75b55dcdaa2fc666f16178d36d86b28"
 metafile = true
 
 [[files]]
