@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "bdd490e9e4fd643d7f4b1024a6000a4e7fbece47986e5950cebd7f163de764e8"
+hash = "91096af9b96991b06ac07a6e08fbcfe21c233d623a9e595b8ab60585fb6e5c7b"
 metafile = true
 
 [[files]]
@@ -116,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.toml"
 hash = "856583ed59b9853f04a69db0e4c376cad017e83240962a2e8d0d58dfe20df78d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
 metafile = true
 
 [[files]]
@@ -211,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
 metafile = true
 
 [[files]]
