@@ -42,7 +42,7 @@ hash = "c59e56099a0ace24113aa7756b46f58fcb43024d915179c064c93a0c197df33a"
 
 [[files]]
 file = "config/yigd.toml"
-hash = "c94a317dfa6dcd979e0c422cd2dcdf463e44481487332e4a71accc3cd0d7fb55"
+hash = "34c422375ebf277a86430cd5b431ab17a6e2d7f96c69f50fc1f44e1816bfa0d7"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
@@ -322,3 +322,7 @@ metafile = true
 file = "mods/yungs-better-strongholds-fabric.toml"
 hash = "13eff10a7835e007666cd6c7e518465312c003a306e531f47d9343893c4f2582"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "b70dd81b2616c15b954baf12f7e8ae46ff59808559eb62e3c7333d54ea8a2569"
