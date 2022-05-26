@@ -3,11 +3,12 @@ filename = "charm-fabric-1.18-4.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3764/177/charm-fabric-1.18-4.1.0.jar"
+url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/4.1.0/charm-fabric-1.18-4.1.0.jar"
 hash-format = "sha1"
 hash = "81ce0b2c2ad345ecdade0c2ba4f4d5388e8dd0d2"
+mode = ""
 
 [update]
-[update.curseforge]
-file-id = 3764177
-project-id = 318872
+[update.modrinth]
+mod-id = "pOQTcQmj"
+version = "wnS9y56O"
