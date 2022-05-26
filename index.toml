@@ -54,18 +54,8 @@ hash = "bb7f8392516aa6d020b1d22898df081e35d9c3f36f78ccf5f93a8f839dd88037"
 metafile = true
 
 [[files]]
-file = "mods/adorn.toml"
-hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "86fddf37d21255242d6b36388910ca86296a2b2db683fc4508fc6ea3f986e4d9"
-metafile = true
-
-[[files]]
-file = "mods/appleskin.toml"
-hash = "cde374866663873f43b376a673fa6095b5f74a8b87215432f6628ee08d405f5f"
 metafile = true
 
 [[files]]
@@ -74,23 +64,13 @@ hash = "3d37b64d1808770df4997c43b2d2822ca8eb978e3240b27ed0708acc2377a150"
 metafile = true
 
 [[files]]
-file = "mods/arcanus.toml"
-hash = "b5525415aba3ac5239119a057bfb2bdca1b152ae4dd1666411feeabc7c66eb9c"
-metafile = true
-
-[[files]]
-file = "mods/architectury-fabric.toml"
-hash = "fd6f7453e6b6a66b26d32fc6da52d2545e7aadb1b7ccdacb7674ac3d4066a28a"
+file = "mods/architectury-api.pw.toml"
+hash = "bdd490e9e4fd643d7f4b1024a6000a4e7fbece47986e5950cebd7f163de764e8"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e6f7d05a47c717cbdef4b105f44d71b2f3202154e2517d6641d6661d01cad07c"
-metafile = true
-
-[[files]]
-file = "mods/badpackets.toml"
-hash = "4985898441d775d014ec0a1cfc69e9a1f92b01de5204f3c299951261bd182ea9"
 metafile = true
 
 [[files]]
@@ -119,18 +99,8 @@ hash = "7d271dfe7ba52243602bfe6fb74c5a3c5f7156142bb5aa24c21db1ce62aba30f"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.toml"
-hash = "74887b7a8c0c0da7e5b28f0b824485ab0c05210cf5f8a3f7313cbd2b8b34f2a1"
-metafile = true
-
-[[files]]
 file = "mods/charm.pw.toml"
 hash = "43b890e66def27d2e69144b58270c489aed8b23b2b62133c062cf90bc32dcc46"
-metafile = true
-
-[[files]]
-file = "mods/charm.toml"
-hash = "8ebe8731e3593c44bfb73c2db6263bc579e73991d295b6fdbabbafa1ee6abcf9"
 metafile = true
 
 [[files]]
@@ -139,18 +109,8 @@ hash = "7a3560c83727e3fac4807c6b2cac054569966dd1f09c5883e1ef78988568b45e"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.toml"
-hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "07dc8b6b90eb549554a26a111f05b54e8459dd8150f5f3c146a05c3400b7c7ff"
-metafile = true
-
-[[files]]
-file = "mods/continuity.toml"
-hash = "a2503cd9f6455bcfd5b5d5d7d5f1350bc005e799918dca1e7d3203c5b67f9ae5"
 metafile = true
 
 [[files]]
@@ -169,18 +129,8 @@ hash = "b5aa8d9141a9b78573d287a1359c77a037083ac1ac6315d822260702c508b549"
 metafile = true
 
 [[files]]
-file = "mods/fabric-chisel.toml"
-hash = "be381fbe9f7aedbe5514d76d67306f1cccd0a1cf9a2fa051d13e6a42f8b81de9"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "23930f5c1fb185ac4f7cac3dcd65af390dafd0b462b456a37a04226d9890cbe6"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.toml"
-hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
 metafile = true
 
 [[files]]
@@ -189,18 +139,8 @@ hash = "9f7b08079849251431522254b7d781d62827b00a1dd72b415c20d22279b29f32"
 metafile = true
 
 [[files]]
-file = "mods/feature-nbt-deadlock-be-gone.toml"
-hash = "04f8732b68c26992eed286a90003a5b550eab18875255359dd5ca31bb016a641"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
-metafile = true
-
-[[files]]
-file = "mods/ferritecore-fabric.toml"
-hash = "25785a86466d4b51296dc71da2110bcd8972b6cdc47069f0ed3c4e8f72512d08"
 metafile = true
 
 [[files]]
@@ -234,11 +174,6 @@ hash = "e1d2ed7ad7e4600b6dc2597fa5ba7cda97618a281c1394806fb61458706eca6a"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.toml"
-hash = "07e02911dfe7200fe09eae8b8ed448e122454cacccbf67e59a3036684a1dec26"
-metafile = true
-
-[[files]]
 file = "mods/hookshot.toml"
 hash = "e848e69a9363723b3889e182329fa1cf4d1c7d8098ee0ac624d58329b97b307f"
 metafile = true
@@ -249,11 +184,6 @@ hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
 metafile = true
 
 [[files]]
-file = "mods/indium.toml"
-hash = "fab378c0172e0251334a08f0c6013b087847d3c6aa3eadc40de2e77b33fbec5e"
-metafile = true
-
-[[files]]
 file = "mods/inmis.toml"
 hash = "abfb0920bb97d861a841679ef4f8a0445ee6eb3cca2b809b8f8602b10c0c783e"
 metafile = true
@@ -261,11 +191,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "4a67039ec2d020ad0cb5ade1855fc24d5e4eb847cc24a59f1f19575402d5a080"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.toml"
-hash = "fea56047e5a97f0829bb943c900c552b6807af1730070362675bcc8823d156d6"
 metafile = true
 
 [[files]]
@@ -284,18 +209,8 @@ hash = "23ed3b713ec08e37ea2b5bb7931252fb70613e56f554d0eca89966d48779f301"
 metafile = true
 
 [[files]]
-file = "mods/kibe.toml"
-hash = "f90c4247a4a21e4079f1314e2e7cd6d01e238a15d4d4f2874e41c7df5336c554"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
-metafile = true
-
-[[files]]
-file = "mods/lithium.toml"
-hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
 metafile = true
 
 [[files]]
@@ -309,18 +224,8 @@ hash = "c6c1956834ce20306f66fcdaa8a9b193556c431851f20570436f82be08d52ac7"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.toml"
-hash = "65bcb9ec9493c2a396f7f3476980b264f125ae4e5ebf695c74add89dbad16eaf"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "ef0ad7353b79f507bd76c56716e8a6fc717cf3ab90135e0466fe39eb4662ab92"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.toml"
-hash = "4f9056a630be5f300b095bf9b4e268c9c1d6f85def91e590887d5c3198ae2bd1"
 metafile = true
 
 [[files]]
@@ -331,16 +236,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "51b735f00031dc7ddbb390dae266953bfbab4e7a3018a824751b149757489a4a"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.toml"
-hash = "e39babb643a63c6011a03a98222be83caa3f7408033c5346fd8fb9a7e055ee08"
-metafile = true
-
-[[files]]
-file = "mods/patchouli-fabric.toml"
-hash = "026c8a4b2389e587dc1c04467f1044d4fe514ece13edc8150120798f6d99fed3"
 metafile = true
 
 [[files]]
@@ -364,11 +259,6 @@ hash = "64fa5ecce5d8f39948eb63786489be3de10154a62d53fff05aaf861cee80095f"
 metafile = true
 
 [[files]]
-file = "mods/repurposed-structures-fabric.toml"
-hash = "754349f2fffedffb8e7189e9b5300e96c4cfafadfe7756f5f3f6c4930fe76da5"
-metafile = true
-
-[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "c0e2ebc766c8680d6845ed6694f5d89ab418f67217059320d681b5d1ccdac502"
 metafile = true
@@ -379,28 +269,13 @@ hash = "f95b2fb43d80577d8f42bb6c60bd0e7aafe7db81a43e5122b7ee69941fccbaeb"
 metafile = true
 
 [[files]]
-file = "mods/sodium.toml"
-hash = "c60b90f09ddd4cdd0fd6e93435713d005b6075ac6238d796b0ea25532ff69c50"
-metafile = true
-
-[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "4efeadfd1fc9a6fb87521fe0f58d2551bd2fc10afbbfd3d968e857f98e50f08e"
 metafile = true
 
 [[files]]
-file = "mods/spectrum.toml"
-hash = "2f931e775dc0f467e4de5e9af2244cca6fd052b716b14cd70e5bca847699493e"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
-metafile = true
-
-[[files]]
-file = "mods/starlight.toml"
-hash = "1b5951a7df3054df579c91d569102546e57370bdebf9e5483e6ba7f90026cd1a"
 metafile = true
 
 [[files]]
@@ -416,11 +291,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.toml"
 hash = "f0f0e47bdb155db22fab44bd6e0b946e85d4632bc3aafa03055216ce34f244ef"
-metafile = true
-
-[[files]]
-file = "mods/trinkets-fabric.toml"
-hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
 metafile = true
 
 [[files]]
@@ -441,11 +311,6 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "147158bc7da617750165c6f7efcafdada6c451d0cb74885ac7353742096cf0e6"
-metafile = true
-
-[[files]]
-file = "mods/youre-in-grave-danger.toml"
-hash = "bd56891e3665f8c7e57f5560f50d9aae75a379b5b54869dbfb546f33772e13fe"
 metafile = true
 
 [[files]]
