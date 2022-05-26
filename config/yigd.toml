@@ -7,12 +7,17 @@ dropGraveBlock = false
 requireGraveItem = false
 generateEmptyGraves = false
 ignoreSpawnProtection = true
+deathInSpawnProtection = "CREATE_GRAVE"
 priority = "GRAVE"
-deleteEnchantments = ["minecraft:vanishing_curse"]
+unlockableGraves = true
+deleteEnchantments = ["minecraft:vanishing_curse", "vanishing_curse"]
 soulboundEnchantments = ["yigd:soulbound"]
+voidSlots = []
+soulboundSlots = []
 applyBindingCurse = false
 trySoft = true
 tryStrict = true
+replaceWhenClaimed = true
 blacklistDimensions = []
 graveInVoid = true
 ignoreDeathTypes = []
@@ -22,6 +27,7 @@ putXpInGrave = true
 defaultXpDrop = false
 xpDropPercent = 50
 tellDeathPos = true
+maxGraveBackups = 50
 
 [graveSettings.graveRobbing]
 enableRobbing = false
@@ -36,12 +42,26 @@ afterTime = 1
 timeType = "HOURS"
 dropInventory = false
 
+[graveSettings.itemLoss]
+enableLoss = false
+ignoreSoulboundItems = true
+affectStacks = false
+usePercentRange = false
+lossRangeFrom = 0
+lossRangeTo = 5
+percentChanceOfLoss = 100
+
 [graveSettings.blockUnderGrave]
 generateBlockUnder = true
 inOverWorld = "minecraft:cobblestone"
 inNether = "minecraft:soul_soil"
 inTheEnd = "minecraft:end_stone"
 inCustom = "minecraft:dirt"
+
+[graveSettings.graveCompatConfig]
+levelzXpInGraves = true
+levelzXpDropPercent = 100
+claimRuleOverride = "CREATE_GRAVE"
 
 [graveSettings.graveRenderSettings]
 useRenderFeatures = true
@@ -51,12 +71,36 @@ textShadow = true
 adaptRenderer = false
 glowingGrave = false
 glowMinDistance = 0
-[utilitySettings]
-soulboundEnchant = true
-teleportScroll = false
+glowMaxDistance = 10
+[utilitySettings.soulboundEnchant]
+enabled = true
+isTreasure = true
+villagerTrade = true
+tableAndLoot = false
+[utilitySettings.deathSightEnchant]
+enabled = false
+isTreasure = true
+villagerTrade = true
+tableAndLoot = true
+[utilitySettings.scrollItem]
+scrollType = "DISABLED"
+retrieveOnRespawn = false
+[utilitySettings.graveKeySettings]
+enableKeys = false
+alwaysRequire = false
+retrieveOnRespawn = true
+getFromGui = false
+rebindable = false
+graveKeySpecification = "PLAYER"
 [commandToggles]
+coreCommandName = "yigd"
 retrieveGrave = true
 robGrave = true
 selfView = true
 adminView = true
 moderateGraves = true
+clearGraveBackups = true
+whitelist = true
+whitelistAdd = true
+whitelistRemove = true
+whitelistToggle = true
