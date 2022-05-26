@@ -124,11 +124,6 @@ hash = "736583b1e65ea2d82385279e785ed5ffe0bb52387c6c624d9b61d6366c4ccbc5"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
-hash = "f3fdedadc83ac9005a59566330e45964cd52625d8dc15014ca8a40b929863638"
-metafile = true
-
-[[files]]
 file = "mods/fabric-chisel.pw.toml"
 hash = "b5aa8d9141a9b78573d287a1359c77a037083ac1ac6315d822260702c508b549"
 metafile = true
@@ -221,11 +216,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
-metafile = true
-
-[[files]]
-file = "mods/modmenu.toml"
-hash = "696d16639ad01496fc4f99045b025492954099367538d46dbaf98dd9a0f7c4d9"
 metafile = true
 
 [[files]]
