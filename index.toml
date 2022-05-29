@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/charm.toml"
+hash = "f07882401773c6f7459ae77d6a84212d9d54c88114b262d28b44a7c6e8a3be2c"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
